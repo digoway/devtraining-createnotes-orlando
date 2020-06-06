@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="clone_profile">
+    <clone_profile action="INSERT_OR_UPDATE">
+        <amount_of_data_copied_from_large_tables>last_90_days</amount_of_data_copied_from_large_tables>
+        <default_profile>true</default_profile>
+        <exclude_all_from_exclusion_list>true</exclude_all_from_exclusion_list>
+        <exclude_large_data>true</exclude_large_data>
+        <filter_attachment_data>true</filter_attachment_data>
+        <name>admin</name>
+        <preserve_in_progress_update_sets/>
+        <preserve_theme>true</preserve_theme>
+        <preserve_users_and_related_tables>true</preserve_users_and_related_tables>
+        <sys_class_name>clone_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-03 22:44:02</sys_created_on>
+        <sys_id>9eced977db011010b71cb298f49619a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>admin</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>clone_profile_9eced977db011010b71cb298f49619a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-03 22:44:02</sys_updated_on>
+        <target_instance/>
+    </clone_profile>
+</record_update>
